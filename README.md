@@ -1,4 +1,3 @@
-preview
 <h1 align="center">Hi 👋, I'm Gaurab Upreti</h1>
 <h3 align="center">I’m currently enhancing my skills in Machine Learning and AI-Powered Solutions. I am passionate about leveraging Technology for Diversity and Inclusion.I am a senior at Northern Kentucky University, majoring in Computer Science.</h3>
 
